@@ -3,7 +3,7 @@ package strategy_pattern.bad.bad3;
 import strategy_pattern.bad.bad2.CashSuper;
 
 public class CashContext {
-    private CashSuper cs; // 声明1个CashContext对象
+    private CashSuper cs; // 声明1个CashSuper对象
 
     // 通过构造方法, 传入具体的收费策略
     public CashContext(CashSuper cs) {
