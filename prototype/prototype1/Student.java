@@ -1,7 +1,7 @@
 package prototype.prototype1;
 
 public class Student implements Cloneable {
-    String name;
+    private String name;
 
     public Student(String name) {
         this.name = name;
