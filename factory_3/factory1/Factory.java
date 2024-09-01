@@ -1,5 +1,8 @@
 package factory_3.factory1;
 
+/**
+ * 工厂类角色
+ */
 public class Factory {
     public BMW createBMW(int type) {
         switch (type) {

@@ -1,6 +1,8 @@
 package factory_3.factory3;
 
-// 创建工厂的接口
+/**
+ * 创建工厂的接口
+ */
 public interface Factory {
     // 制造引擎
     public Engine createEngine();
