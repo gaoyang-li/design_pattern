@@ -1,6 +1,8 @@
 package proxy_pattern.bad2;
 
-// 代理类
+/**
+ * 代理类
+ */
 public class Proxy {
     private Girl girl;
 

@@ -1,6 +1,8 @@
 package proxy_pattern.good;
 
-// 被追求者类
+/**
+ * 被追求者类
+ */
 public class Girl {
     private String name;
 

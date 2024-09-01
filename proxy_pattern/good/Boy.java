@@ -1,6 +1,8 @@
 package proxy_pattern.good;
 
-// 追求者类
+/**
+ * 追求者类
+ */
 public class Boy implements GiveGift{
     private Girl girl;
     public Boy(Girl girl){

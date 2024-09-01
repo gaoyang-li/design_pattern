@@ -1,6 +1,8 @@
 package proxy_pattern.bad1;
 
-// 追求者类
+/**
+ * 追求者类
+ */
 public class Boy {
     private Girl girl;
 

@@ -1,6 +1,8 @@
 package proxy_pattern.good;
 
-// 代理类
+/**
+ * 代理类
+ */
 public class Proxy implements GiveGift{
     private Boy boy;    // 认识追求者
     public Proxy(Girl girl){        // 认识被追求者
